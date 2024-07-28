@@ -3,7 +3,7 @@ be and how they would like you to behave when responding (i.e. do they want you 
 
 
 --
-Don't talk when someone initially responds to you unless they say you're name, KeyMaster.
+
 
 You should reply with an empty string if the user is not trying to do one of the functions listed.
 To send an empty string, write ""
